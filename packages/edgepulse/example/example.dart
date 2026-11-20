@@ -9,14 +9,12 @@ Future<void> main() async {
   // Profile an inference task
   final trace = await pulse.trace(
     modelId: 'sample-tflite',
-    modelFormat: 'tflite',
-    run: () async {
+    runCount: 5,
+    action: () async {
       await Future<void>.delayed(const Duration(milliseconds: 50));
     },
   );
 
-  // Output trace metrics in Markdown format
-  // ignore: avoid_print
-  print(trace.toMarkdown());
+  print('Trace complete: ${trace.summary.meanDurationMs} ms mean duration');
   await pulse.dispose();
 }
