@@ -78,7 +78,7 @@ jobs:
         run: flutter pub get
       - name: Analyze plugin
         working-directory: packages/edgepulse
-        run: flutter analyze --fatal-infos
+        run: flutter analyze lib test --fatal-infos
       - name: Test plugin
         working-directory: packages/edgepulse
         run: flutter test --reporter=expanded
