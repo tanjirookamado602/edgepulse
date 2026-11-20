@@ -34,11 +34,19 @@ jobs:
       - name: Publish Dry-Run (edgepulse_cli)
         run: |
           cd packages/edgepulse_cli
+          printf "dependency_overrides:
+  edgepulse_core:
+    path: ../edgepulse_core
+" > pubspec_overrides.yaml
           dart pub get
           dart pub publish --dry-run
 
       - name: Publish Dry-Run (edgepulse)
         run: |
           cd packages/edgepulse
+          printf "dependency_overrides:
+  edgepulse_core:
+    path: ../edgepulse_core
+" > pubspec_overrides.yaml
           flutter pub get
           flutter pub publish --dry-run
