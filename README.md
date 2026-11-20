@@ -5,19 +5,19 @@
 [![edgepulse](https://img.shields.io/pub/v/edgepulse.svg?style=for-the-badge&logo=flutter&logoColor=white&label=edgepulse)](https://pub.dev/packages/edgepulse)
 [![edgepulse_core](https://img.shields.io/pub/v/edgepulse_core.svg?style=for-the-badge&logo=dart&logoColor=white&label=edgepulse_core)](https://pub.dev/packages/edgepulse_core)
 [![edgepulse_cli](https://img.shields.io/pub/v/edgepulse_cli.svg?style=for-the-badge&logo=dart&logoColor=white&label=edgepulse_cli)](https://pub.dev/packages/edgepulse_cli)
-[![GitHub Release](https://img.shields.io/github/v/release/assassinaj602/edgepulse?style=for-the-badge&logo=github)](https://github.com/assassinaj602/edgepulse/releases)
-[![CI](https://img.shields.io/github/actions/workflow/status/assassinaj602/edgepulse/test.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=CI)](https://github.com/assassinaj602/edgepulse/actions/workflows/test.yml)
+[![GitHub Release](https://img.shields.io/github/v/release/tanjirookamado602/edgepulse?style=for-the-badge&logo=github)](https://github.com/tanjirookamado602/edgepulse/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/tanjirookamado602/edgepulse/test.yml?branch=main&style=for-the-badge&logo=githubactions&logoColor=white&label=CI)](https://github.com/tanjirookamado602/edgepulse/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![DOI - EdgePulse](https://zenodo.org/badge/DOI/10.5281/zenodo.23248718.svg)](https://doi.org/10.5281/zenodo.23248718)
 [![DOI - SATE AI](https://zenodo.org/badge/DOI/10.5281/zenodo.23250418.svg)](https://doi.org/10.5281/zenodo.23250418)
 [![DOI - Joint Study](https://zenodo.org/badge/DOI/10.5281/zenodo.23262270.svg)](https://doi.org/10.5281/zenodo.23262270)
 [![Dart](https://img.shields.io/badge/Dart-3.0%2B-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-3.10%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![GitHub Discussions](https://img.shields.io/github/discussions/assassinaj602/edgepulse?style=for-the-badge&logo=github&color=0E8A16)](https://github.com/assassinaj602/edgepulse/discussions)
-[![GitHub Stars](https://img.shields.io/github/stars/assassinaj602/edgepulse?style=for-the-badge&logo=github&color=FBCA04)](https://github.com/assassinaj602/edgepulse/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/assassinaj602/edgepulse?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/assassinaj602/edgepulse/forks)
+[![GitHub Discussions](https://img.shields.io/github/discussions/tanjirookamado602/edgepulse?style=for-the-badge&logo=github&color=0E8A16)](https://github.com/tanjirookamado602/edgepulse/discussions)
+[![GitHub Stars](https://img.shields.io/github/stars/tanjirookamado602/edgepulse?style=for-the-badge&logo=github&color=FBCA04)](https://github.com/tanjirookamado602/edgepulse/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/tanjirookamado602/edgepulse?style=for-the-badge&logo=github&color=00B4D8)](https://github.com/tanjirookamado602/edgepulse/forks)
 
-🌐 **Website:** [assassinaj602.github.io/edgepulse](https://assassinaj602.github.io/edgepulse/)
+🌐 **Website:** [tanjirookamado602.github.io/edgepulse](https://tanjirookamado602.github.io/edgepulse/)
 
 ---
 
@@ -34,7 +34,7 @@ thermal state, battery microamp draw, CPU utilisation, per-layer timing, and out
 confidence. Traces are exported as JSON, Markdown, or CSV for analysis, CI/CD 
 integration, or academic research.
 
-EdgePulse pairs directly with [SATE AI](https://github.com/assassinaj602/sate_ai): 
+EdgePulse pairs directly with [SATE AI](https://github.com/tanjirookamado602/sate-ai): 
 SATE AI *injects faults*, EdgePulse *measures what changes*. Together they form a 
 complete reliability testing pipeline for on-device AI.
 
@@ -247,7 +247,7 @@ instructions, the contribution workflow, and how to add a new MetricCollector
 or language SDK.
 
 Good first issues are labeled 
-[`good first issue`](https://github.com/assassinaj602/edgepulse/issues?q=label%3A%22good+first+issue%22).
+[`good first issue`](https://github.com/tanjirookamado602/edgepulse/issues?q=label%3A%22good+first+issue%22).
 
 ---
 
@@ -256,14 +256,14 @@ Good first issues are labeled
 EdgePulse is built by people who believe on-device AI deserves visibility.
 Every contribution: code, docs, bug reports, or experiment traces: matters.
 
-<a href="https://github.com/assassinaj602/edgepulse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=assassinaj602/edgepulse" />
+<a href="https://github.com/tanjirookamado602/edgepulse/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tanjirookamado602/edgepulse" />
 </a>
 
 **Want to be here?** Start with a
-[`good first issue`](https://github.com/assassinaj602/edgepulse/issues?q=label%3A%22good+first+issue%22)
+[`good first issue`](https://github.com/tanjirookamado602/edgepulse/issues?q=label%3A%22good+first+issue%22)
 or introduce yourself in
-[Discussions](https://github.com/assassinaj602/edgepulse/discussions).
+[Discussions](https://github.com/tanjirookamado602/edgepulse/discussions).
 
 ---
 
@@ -275,5 +275,5 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Related Projects
 
-- [SATE AI](https://github.com/assassinaj602/sate_ai): Fault injection framework 
+- [SATE AI](https://github.com/tanjirookamado602/sate-ai): Fault injection framework 
   for on-device AI models in Flutter. EdgePulse is the observability companion to SATE AI.

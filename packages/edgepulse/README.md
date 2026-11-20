@@ -67,4 +67,4 @@ Future<void> main() async {
 
 ## Documentation
 
-For full documentation and core utilities, visit the [EdgePulse GitHub repository](https://github.com/assassinaj602/edgepulse).
+For full documentation and core utilities, visit the [EdgePulse GitHub repository](https://github.com/tanjirookamado602/edgepulse).

@@ -22,7 +22,7 @@ research/
 ## Development Setup
 
 ```bash
-git clone https://github.com/assassinaj602/edgepulse.git
+git clone https://github.com/tanjirookamado602/edgepulse.git
 cd edgepulse
 dart pub global activate melos
 melos bootstrap
@@ -102,5 +102,5 @@ chore(ci): add coverage reporting
 
 ## Questions?
 
-Open a [Discussion](https://github.com/assassinaj602/edgepulse/discussions) 
+Open a [Discussion](https://github.com/tanjirookamado602/edgepulse/discussions) 
 : not an issue: for questions.

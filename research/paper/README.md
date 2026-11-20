@@ -43,6 +43,6 @@ python3 analyse.py
   author = {Muhammad Assad Ullah},
   title  = {EdgePulse: Runtime Observability for On-Device AI},
   year   = {2026},
-  url    = {https://github.com/assassinaj602/edgepulse}
+  url    = {https://github.com/tanjirookamado602/edgepulse}
 }
 ```

@@ -3,8 +3,8 @@
 **Author:** Muhammad Assad Ullah  
 **Affiliation:** Independent Researcher  
 **Contact:** asadullahaj602@gmail.com  
-**Code:** https://github.com/assassinaj602/edgepulse  
-**Dataset:** https://github.com/assassinaj602/edgepulse/tree/main/research/experiment  
+**Code:** https://github.com/tanjirookamado602/edgepulse  
+**Dataset:** https://github.com/tanjirookamado602/edgepulse/tree/main/research/experiment  
 **Date:** October 2026
 
 ---
