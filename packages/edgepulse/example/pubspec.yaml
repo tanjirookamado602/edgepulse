@@ -16,8 +16,6 @@ dependencies:
   path_provider: ^2.1.0
   onnxruntime: ^1.4.1
   fllama: ^0.0.1
-  sate_ai:
-    path: /media/win_drive2/New folder (4)/github_pr/research_work
 
 dev_dependencies:
   flutter_test:
@@ -25,6 +23,10 @@ dev_dependencies:
   integration_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+
+dependency_overrides:
+  edgepulse_core:
+    path: ../../edgepulse_core
 
 flutter:
   uses-material-design: true
